@@ -24,4 +24,4 @@ I've been coding professionally for 6 years mostly in the financial sector; Over
 
 ### Badges
 
-<a href="https://github.com/demaseme" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demaseme&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/dgmerinos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmerinos&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
